@@ -1,5 +1,6 @@
 # BMI_Calculator
 An app that calculates your BMI
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<br>
+<img src="https://camo.githubusercontent.com/75268931/119227030-a6b70e80-bb29-11eb-9dad-a08b67d79483.jpg" width="200" height="400" />
 
 
