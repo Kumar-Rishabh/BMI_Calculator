@@ -1,6 +1,5 @@
 # BMI_Calculator
 An app that calculates your BMI
-
-![Screenshot_2021-05-22-10-44-16-965_co appbrewery bmicalculator](https://user-images.githubusercontent.com/75268931/119226914-209ac800-bb29-11eb-9d05-114bddb2f0e4.jpg|height=100)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 
